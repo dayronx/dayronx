@@ -21,6 +21,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ## Cloud & DevOps
 
@@ -68,6 +69,10 @@
 ```
 
 ---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayronx&layout=donut&theme=github_dark&hide_border=true&langs_count=10&title_color=0078D4" />
+</div>
 
 
 <div align="center">
