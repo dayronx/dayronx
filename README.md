@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/n8n-ai-automation"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=flat-square&color=0078D4" alt="profile views"/>
+  
 </div>
 
 ---
